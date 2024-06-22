@@ -1,0 +1,20 @@
+.imageContainer {
+  position: relative;
+
+  display: flex;
+  height: 310px;
+}
+
+.image {
+  position: relative;
+  border-radius: 15px;
+  margin: 10px;
+  border: red solid 3px;
+}
+.buttonsContainer {
+  position: absolute;
+  bottom: 0px;
+  font-size: 10px;
+  justify-self: center;
+  padding: 2px;
+}
